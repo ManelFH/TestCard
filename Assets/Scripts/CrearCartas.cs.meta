@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f2b3e2f1ec236a24ba1ef334e0b078d3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CartaPrefab: {instanceID: 0}
+  - CartasParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
